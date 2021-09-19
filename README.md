@@ -26,4 +26,4 @@ In all cases, the instructions for generating input files and some sample input 
 
 ----
 ##### Acknowledgement: 
-Special thanks to the course instructor, Prof. Rafi Muhanna at Georgia Tech for providing the advice and guidance towards designing and preparation of the materials.
+Special thanks to the course instructor, Prof. Rafi Muhanna at Georgia Tech for providing the advice and insights towards designing and preparation of the materials.
