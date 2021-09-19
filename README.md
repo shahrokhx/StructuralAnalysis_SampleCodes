@@ -20,7 +20,7 @@ More specifically, this package includes the following items:
 3.	A small program for modeling and analyzing the famous __conical bar under self-weight__ problem, where a simple GUI has also been created to facilitate the modeling and studying results.
 In all cases, the instructions for generating input files and some sample input files are provided.
 ----
-![](Img/ demo_gui.jpg)
+![](Img/demo_gui.jpg)
 <br>
 
 
